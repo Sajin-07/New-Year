@@ -18,6 +18,7 @@
     font-size: 32px;
     font-weight: 400;
     padding-top: 177px;
+
 }
 .fh3{
     color: #FFF;
@@ -26,6 +27,7 @@
     font-size: 72px;
     font-weight: 900;
     margin-top: 33px;
+    
 }
 
 .sh4{
@@ -321,4 +323,138 @@
 
 .img2 .y1:hover{
     background-color: aqua;
+}
+
+.container4{
+    width: 1320px;
+    margin:50px auto 150px;
+    
+    
+
+}
+
+.hh{
+    width: 150px;
+    height: 150px;
+    margin-left: 550px;
+}
+
+.nh1{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+
+}
+.gg{
+    
+    /* width: 896px; */
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    text-align: center;
+   
+}
+
+.inpr{
+    width: 450px;
+    height: 72px;
+    border: 1px solid whitesmoke;
+    border-radius: 50px;
+    margin-left:300px;
+    margin-top: 20px;
+}
+.bt{
+    width: 210px;
+    height: 72px;
+    margin-top: 20px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+}
+.button3{
+    display: flex;
+}
+
+.fot{
+    background-color: #070211;
+
+}
+
+.ft1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    margin-left: 140px;
+}
+.ht{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    margin-left: 10px;
+}
+/* .fot{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+.leo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.tw1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.two{
+    margin-right: 275px;
+    margin-top: 50px;
+}
+
+.o{
+    width: 24px;
+    height: 24px;
+}
+
+.line{
+    width: 1320px;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.15);
+    display: block;
+    margin: 5px auto 10px;
+}
+.sec{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.v1{
+    padding: 10px;
+}
+
+.last{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.oo{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin: 30px 280px 80px 140px;
+ 
 }
