@@ -1,3 +1,137 @@
-p{
-    background-color: blue;
+.f1{
+    background-image: url(../images/Banner\ Image.png);
+    width:1320px;
+    height: 600px; 
+    margin:50px auto 150px;
+
+}
+.f2{
+    /* width: 802.9px;
+    height: 500px; */
+    margin:50px auto 150px;
+}
+
+.fh2{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 177px;
+}
+.fh3{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 33px;
+}
+
+.sh4{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 48px;
+  
+}
+.sh5{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.sh6{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 4px;
+}
+.im1{
+    width: 802.9px;
+    height: 500px;
+    margin:50px auto 150px;
+}
+
+.section3{
+    background-image: url(../images/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    margin:50px auto 150px;
+
+
+}
+.t1{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+    padding: 126px 552px 24px 126px;
+    /* padding-top: 126px;
+    padding-right: 552px;
+    padding-bottom: 24px;
+    padding-left: 126px; */
+}
+.t2{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 497px 0px 126px;
+
+}
+.btn1{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    background-color: transparent;
+    margin: 30px 1059px 0px 158px;
+}
+
+.section4{
+    
+    width: 1320px;
+    height: 482px;
+    margin:50px auto 150px;
+    background-color: lightgray;
+
+}
+.p1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    padding: 100px 386px 5px 385px;
+}
+.sp1{
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+}
+.p2{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    padding: 0px 386px 5px 385px;
+}
+
+.btn2{
+    border-radius: 8px;
+    background-color: #F00;
+    color: #FFF;
+    padding: 16px 32px;
+    margin-left: 620px;
+    
 }
