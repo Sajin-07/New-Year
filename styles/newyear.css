@@ -18,6 +18,7 @@
     font-size: 32px;
     font-weight: 400;
     padding-top: 177px;
+    text-shadow:1px 1px #FF0000;
 
 }
 .fh3{
@@ -27,6 +28,7 @@
     font-size: 72px;
     font-weight: 900;
     margin-top: 33px;
+    text-shadow:3px 3px #FF0000;
     
 }
 
@@ -87,6 +89,7 @@
     font-size: 18px;
     font-weight: 400;
     padding: 0px 497px 0px 126px;
+    
 
 }
 .btn1{
@@ -103,7 +106,10 @@
     width: 1320px;
     height: 482px;
     margin:50px auto 150px;
-    background-color: lightgray;
+    /* background-color: lightgray; */
+    /* fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%); */
+    background-image: linear-gradient(to right, rgba(255,0,0,0), lightgray);
+    
 
 }
 .p1{
